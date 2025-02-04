@@ -1,0 +1,5 @@
+﻿  Encryption.cpp
+C:\Users\bloopykj\source\repos\CerianKievJaimeProject3\Encryption.cpp(38,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bloopykj\source\repos\CerianKievJaimeProject3\Encryption.cpp(38,51): warning C4018: '>': signed/unsigned mismatch
+C:\Users\bloopykj\source\repos\CerianKievJaimeProject3\Encryption.cpp(100,7): warning C4101: 'S': unreferenced local variable
+  CerianKievJaimeProject3.vcxproj -> C:\Users\bloopykj\source\repos\CerianKievJaimeProject3\Debug\CerianKievJaimeProject3.exe
